@@ -1,0 +1,12 @@
+snackBar\OrderRepository.class
+snackBar\OrderController.class
+snackBar\PolicyHandler.class
+snackBar\Order.class
+snackBar\external\Cancellation.class
+snackBar\AbstractEvent.class
+snackBar\AbstractEvent$1.class
+snackBar\Ordered.class
+snackBar\OrderSnackApplication.class
+snackBar\config\kafka\KafkaProcessor.class
+snackBar\external\CancellationService.class
+snackBar\OrderCanceled.class

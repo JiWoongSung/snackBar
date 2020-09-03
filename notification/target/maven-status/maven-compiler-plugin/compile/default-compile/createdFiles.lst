@@ -1,0 +1,7 @@
+snackBar\AbstractEvent$1.class
+snackBar\CookingCanceled.class
+snackBar\PolicyHandler.class
+snackBar\config\kafka\KafkaProcessor.class
+snackBar\NotificationApplication.class
+snackBar\AbstractEvent.class
+snackBar\Cooked.class
